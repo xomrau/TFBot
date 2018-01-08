@@ -1,0 +1,12 @@
+{
+    "name": "twisted-fate-bot",
+    "version": "1.0.0",
+    "description": "Discord bot for twisted fate main server!",
+    "main": "tfbot.js",
+    "author": "xomrau",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "kayn": "^0.6.4",
+        "winston": "^2.4.0"
+    }
+}
