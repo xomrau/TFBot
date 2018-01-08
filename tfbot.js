@@ -19,6 +19,9 @@ var tfbot = new Discord.Client({
 
 
 
+
+
+
 var emb = {
     author: {
         name: tfbot.username
